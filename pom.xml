@@ -94,7 +94,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://32.198.20.228:9000/</sonar.host.url>
 		<sonar.login>aban</sonar.login>  
-		<sonar.login>sqp_ba7813a9f3ff8c61b7cf34fdb2c252cb4b176586</sonar.login>
+		<sonar.login>sqp_70c20d3fc9244e2171e26b528de30cbcf257db6b</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
