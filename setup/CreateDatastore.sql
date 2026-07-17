@@ -1,6 +1,6 @@
-CREATE DATABASE if not exists brice-bookstorebookstore;
+CREATE DATABASE if not exists EUGENE-bookstorebookstore;
 
-\c brice-bookstorebookstore
+\c EUGENE-bookstorebookstore
 
 CREATE TABLE if not exists books 
   ( 
